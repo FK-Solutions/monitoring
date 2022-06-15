@@ -1,4 +1,4 @@
-# [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟧 Partial outage**
+# [📈 Live Status](https://fk-solutions.github.io/monitoring): <!--live status--> **🟧 Partial outage**
 
 This repository contains the open-source uptime monitor and status page for [Fernando León](https://devtocloud.com), powered by [Upptime](https://github.com/upptime/upptime).
 
