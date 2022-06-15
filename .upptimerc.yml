@@ -6,9 +6,9 @@ sites:
   - name: Ambientes
     url: https://ambientesproductosdelimpieza.com/
   - name: AMBSIL
-    url: https://ambsil.com
+    url: http://ambsil.com.mx
   - name: AMBSIL MX
-    url: https://ambsil.com.mx
+    url: http://ambsil.mx
   - name: Macro Pro WS
     url:  http://portalmacropro.com.mx/srvCFDi33/service1.asmx
 
