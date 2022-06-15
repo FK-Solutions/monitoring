@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4012,
-    "timeDay": 4012,
-    "timeWeek": 4012,
-    "timeMonth": 4012,
-    "timeYear": 4012,
+    "time": 3336,
+    "timeDay": 3336,
+    "timeWeek": 3336,
+    "timeMonth": 3336,
+    "timeYear": 3336,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/ambsil.com",
     "slug": "ambsil",
     "status": "down",
-    "uptime": "10.63%",
-    "uptimeDay": "10.63%",
-    "uptimeWeek": "10.63%",
-    "uptimeMonth": "10.63%",
-    "uptimeYear": "10.63%",
+    "uptime": "0.39%",
+    "uptimeDay": "0.39%",
+    "uptimeWeek": "0.39%",
+    "uptimeMonth": "0.39%",
+    "uptimeYear": "0.39%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-15": 4
+      "2022-06-15": 134
     }
   },
   {
@@ -43,18 +43,36 @@
     "icon": "https://favicons.githubusercontent.com/ambsil.com.mx",
     "slug": "ambsil-mx",
     "status": "down",
-    "uptime": "0.27%",
-    "uptimeDay": "0.27%",
-    "uptimeWeek": "0.27%",
-    "uptimeMonth": "0.27%",
-    "uptimeYear": "0.27%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-15": 4
+      "2022-06-15": 134
     }
+  },
+  {
+    "name": "Macro Pro WS",
+    "url": "http://portalmacropro.com.mx/srvCFDi33/service1.asmx",
+    "icon": "https://favicons.githubusercontent.com/portalmacropro.com.mx",
+    "slug": "macro-pro-ws",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 104,
+    "timeDay": 104,
+    "timeWeek": 104,
+    "timeMonth": 104,
+    "timeYear": 104,
+    "dailyMinutesDown": {}
   }
 ]
