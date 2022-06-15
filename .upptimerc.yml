@@ -28,8 +28,8 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-      #href: https://github.com/FK-Solutions/$REPO
+      #href: https://github.com/$OWNER/$REPO
+      href: https://github.com/fk-solutions/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
