@@ -9,6 +9,8 @@ sites:
     url: https://ambsil.com
   - name: AMBSIL MX
     url: https://ambsil.com.mx
+  - name: Macro Pro WS
+    url:  http://portalmacropro.com.mx/srvCFDi33/service1.asmx
 
 assignees:
   - fleonortiz
