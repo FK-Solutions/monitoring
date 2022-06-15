@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 7229,
-    "timeDay": 7229,
-    "timeWeek": 7229,
-    "timeMonth": 7229,
-    "timeYear": 7229,
+    "time": 4012,
+    "timeDay": 4012,
+    "timeWeek": 4012,
+    "timeMonth": 4012,
+    "timeYear": 4012,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/ambsil.com",
     "slug": "ambsil",
     "status": "down",
-    "uptime": "70.63%",
-    "uptimeDay": "70.63%",
-    "uptimeWeek": "70.63%",
-    "uptimeMonth": "70.63%",
-    "uptimeYear": "70.63%",
+    "uptime": "10.63%",
+    "uptimeDay": "10.63%",
+    "uptimeWeek": "10.63%",
+    "uptimeMonth": "10.63%",
+    "uptimeYear": "10.63%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-15": 0
+      "2022-06-15": 4
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/ambsil.com.mx",
     "slug": "ambsil-mx",
     "status": "down",
-    "uptime": "3.89%",
-    "uptimeDay": "3.89%",
-    "uptimeWeek": "3.89%",
-    "uptimeMonth": "3.89%",
-    "uptimeYear": "3.89%",
+    "uptime": "0.27%",
+    "uptimeDay": "0.27%",
+    "uptimeWeek": "0.27%",
+    "uptimeMonth": "0.27%",
+    "uptimeYear": "0.27%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-15": 0
+      "2022-06-15": 4
     }
   }
 ]
