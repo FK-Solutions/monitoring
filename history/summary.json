@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/ambsil.com.mx",
     "slug": "ambsil",
     "status": "up",
-    "uptime": "85.44%",
+    "uptime": "88.81%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "85.44%",
-    "uptimeMonth": "85.44%",
-    "uptimeYear": "85.44%",
+    "uptimeWeek": "88.81%",
+    "uptimeMonth": "88.81%",
+    "uptimeYear": "88.81%",
     "time": 429,
     "timeDay": 433,
     "timeWeek": 429,
@@ -43,11 +43,11 @@
     "icon": "https://favicons.githubusercontent.com/ambsil.mx",
     "slug": "ambsil-mx",
     "status": "up",
-    "uptime": "85.44%",
+    "uptime": "88.81%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "85.44%",
-    "uptimeMonth": "85.44%",
-    "uptimeYear": "85.44%",
+    "uptimeWeek": "88.81%",
+    "uptimeMonth": "88.81%",
+    "uptimeYear": "88.81%",
     "time": 865,
     "timeDay": 1729,
     "timeWeek": 865,
@@ -62,7 +62,7 @@
     "url": "http://portalmacropro.com.mx/srvCFDi33/service1.asmx",
     "icon": "https://favicons.githubusercontent.com/portalmacropro.com.mx",
     "slug": "macro-pro-ws",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -73,6 +73,8 @@
     "timeWeek": 128,
     "timeMonth": 128,
     "timeYear": 128,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-17": 0
+    }
   }
 ]
