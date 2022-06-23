@@ -4,19 +4,19 @@
     "url": "https://ambientesproductosdelimpieza.com/",
     "icon": "https://favicons.githubusercontent.com/ambientesproductosdelimpieza.com",
     "slug": "ambientes",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 2094,
-    "timeDay": 651,
-    "timeWeek": 1676,
-    "timeMonth": 2094,
-    "timeYear": 2094,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 2076,
+    "timeDay": 1255,
+    "timeWeek": 1699,
+    "timeMonth": 2076,
+    "timeYear": 2076,
     "dailyMinutesDown": {
-      "2022-06-23": 1
+      "2022-06-23": 7
     }
   },
   {
