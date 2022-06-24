@@ -15,7 +15,7 @@ sites:
     url:  http://portalmacropro.com.mx/srvCFDi33/service1.asmx
   - name: AMBSIL HMO
     check: "tcp-ping"
-    url: https://ambienteshmo.fortiddns.com
+    url: ambienteshmo.fortiddns.com
     port: 50491
 
 assignees:
