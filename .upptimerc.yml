@@ -14,7 +14,7 @@ sites:
   - name: Macro Pro WS
     url:  http://portalmacropro.com.mx/srvCFDi33/service1.asmx
   - name: AMBSIL HMO
-    url: http://ambienteshmo.fortiddns.com
+    url: https://ambienteshmo.fortiddns.com
 
 assignees:
   - fleonortiz
