@@ -17,6 +17,8 @@ sites:
     check: "tcp-ping"
     url: ambienteshmo.fortiddns.com
     port: 50491
+  - name: Demo Web
+    url: https://demo.org
 
 assignees:
   - fleonortiz
