@@ -1,5 +1,5 @@
 # Change these first
-owner: fk-solutions # Your GitHub organization or username, where this repository lives
+owner: fleonortiz # fk-solutions # Your GitHub organization or username, where this repository lives
 repo: monitoring # The name of this repository
 
 sites:
@@ -17,8 +17,8 @@ sites:
     check: "tcp-ping"
     url: ambienteshmo.fortiddns.com
     port: 50491
-  - name: Demo Web V
-    url: https://demo.org
+#  - name: Demo Web V
+#    url: https://demo.org
 
 assignees:
   - fleonortiz
